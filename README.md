@@ -1,2 +1,1 @@
 # QuantumultX
-# yokiyokiyoki
